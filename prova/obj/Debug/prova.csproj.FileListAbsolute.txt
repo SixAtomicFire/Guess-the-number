@@ -1,0 +1,20 @@
+Z:\ExtraScolastico\prova\prova\obj\Debug\prova.csprojAssemblyReference.cache
+Z:\ExtraScolastico\prova\prova\bin\Debug\prova.exe.config
+Z:\ExtraScolastico\prova\prova\bin\Debug\prova.exe
+Z:\ExtraScolastico\prova\prova\bin\Debug\prova.pdb
+Z:\ExtraScolastico\prova\prova\obj\Debug\prova.exe
+Z:\ExtraScolastico\prova\prova\obj\Debug\prova.pdb
+Z:\ExtraScolastico\giochi c#\indovina il numero\prova\bin\Debug\prova.exe.config
+Z:\ExtraScolastico\giochi c#\indovina il numero\prova\bin\Debug\prova.exe
+Z:\ExtraScolastico\giochi c#\indovina il numero\prova\bin\Debug\prova.pdb
+Z:\ExtraScolastico\giochi c#\indovina il numero\prova\obj\Debug\prova.csprojAssemblyReference.cache
+Z:\ExtraScolastico\giochi c#\indovina il numero\prova\obj\Debug\prova.exe
+Z:\ExtraScolastico\giochi c#\indovina il numero\prova\obj\Debug\prova.pdb
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\bin\Debug\prova.exe.config
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\bin\Debug\prova.exe
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\bin\Debug\prova.pdb
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\obj\Debug\prova.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\obj\Debug\prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\obj\Debug\prova.exe
+C:\Users\andre\Desktop\progetti\c#\finite\indovina il numero\prova\obj\Debug\prova.pdb
