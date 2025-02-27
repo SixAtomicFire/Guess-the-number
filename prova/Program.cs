@@ -12,7 +12,6 @@ namespace prova
         {
             int start, mod, i, f, c, t, restart;
             double n;
-
             
             start=0;
             mod=0;
@@ -22,7 +21,6 @@ namespace prova
 
             for(restart=1;restart!=0;restart=restart+0)
             { 
-
 //pagina iniziale
                 Console.Clear();
                 Console.WriteLine("INDOVINA IL NUMERO");
